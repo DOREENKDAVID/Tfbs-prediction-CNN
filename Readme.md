@@ -105,6 +105,8 @@ Non-CTCF binding site       0.89      0.93      0.91      5623
             macro avg       0.91      0.91      0.91     11246
          weighted avg       0.91      0.91      0.91     11246
 
+ROC-AUC: 0.9661756867397182
+
 Remarks: The high ROC–AUC indicates strong discriminative ability between binding and non-binding genomic regions.
 
 # Motif Interpretation
